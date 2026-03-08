@@ -1,0 +1,7 @@
+planta,linea,operarios,horas_trabajo_disponibles
+Planta_A,L1,15,500
+Planta_A,L2,14,480
+Planta_B,L3,12,430
+Planta_B,L4,10,410
+Planta_C,L5,13,450
+Planta_C,L6,11,420
